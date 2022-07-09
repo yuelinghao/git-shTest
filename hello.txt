@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello git! 333
+=======
+hello git! hot-fix
+>>>>>>> hot-fix
